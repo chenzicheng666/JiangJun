@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <h1>aaaaaaaaa</h1>
+    <h3>第二次书写的内容ak</h3>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
